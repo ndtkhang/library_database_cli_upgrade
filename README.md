@@ -1,6 +1,8 @@
 # Python-Library-Database-CLI-Application
 A Command-Line Interface (CLI) project built in Python to manage library books. This project was created to solve MVC3 Python Development project competition independently from my teammate to further my understanding of the solution. While developing, I practiced and deepened my skills with pandas, object-oriented programming (OOP), working with CSV files, and using SQLAlchemy for database interactions.
 
+(TODO) I actually will updat this project even more so that the user can fully interact with the database with RESTAPI, then refactor the code to a modular architecture
+
 # Project Purpose
 This application was built as part of completing the MVC3 Python Development project competition. It demonstrates various Python best practices and skills in:
 
