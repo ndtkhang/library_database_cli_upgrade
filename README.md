@@ -36,6 +36,6 @@ Convert lists of books into pandas DataFrames for easy manipulation and CSV expo
 1. Run the main script: python main.py
 2. Follow CLI prompts to:
     * Import books manually
-    * Import from CSV
-    * Export to CSV
+    * Import from CSV (feel free to use the sample .csv I included at different sizes)
+    * Export to CSV 
     * Export to SQLite database
