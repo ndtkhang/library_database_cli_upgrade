@@ -22,7 +22,8 @@ Easily export the library data to an SQLite database with SQLAlchemy.
 pandas for Data Handling
 
 Convert lists of books into pandas DataFrames for easy manipulation and CSV export.
-##Installation
+
+## Installation
 1. Clone the repository: git clone https://github.com/YourUsername/Python-Library-Database-CLI-Application.git
 2. Navigate into the project folder: cd Python-Library-Database-CLI-Application
 3. Create and activate a virtual environment (optional but recommended): python -m venv venv
@@ -31,10 +32,10 @@ Convert lists of books into pandas DataFrames for easy manipulation and CSV expo
 
 * (macOS/Linux) source venv/bin/activate
 
-##Install requirements:
+## Install requirements:
 pip install -r requirements.txt
 
-##Usage
+## Usage
 1. Run the main script: python main.py
 2. Follow CLI prompts to:
 * Import books manually
