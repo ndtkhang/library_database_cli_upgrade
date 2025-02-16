@@ -1,0 +1,4 @@
+book_id,title,authors,avg_rating,isbn,isbn13,language_code,num_pages,ratings_count,text_reviews_count,publication_date,publisher
+54321,The Silent Storm,Jane Doe,4.15,1234567890,9781234567897,eng,320,15000,210,2001-03-15,Sunrise Press
+67890,Shadows of the Past,John Smith,3.98,2345678901,9782345678908,eng,280,13000,190,1998-11-22,Old World Books
+13579,Echoes of Tomorrow,Emily White,4.45,3456789012,9783456789015,eng,410,17000,250,2010-07-30,Future Press

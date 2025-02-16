@@ -1,0 +1,21 @@
+book_id,title,authors,avg_rating,isbn,isbn13,language_code,num_pages,ratings_count,text_reviews_count,publication_date,publisher
+10523,The Enigma Code,John Doe,4.12,1234567890,9781234567897,eng,350,15000,234,2000-05-15,TechBooks Publishing
+23984,Secrets of the Universe,Jane Smith,4.45,2345678901,9782345678908,eng,420,20000,345,2003-07-22,StarPress
+31746,Whispers in the Wind,Emily Rose,3.98,3456789012,9783456789015,eng,310,12000,210,1999-11-11,Greenleaf Books
+48296,Mysteries of Time,Robert Brown,4.05,4567890123,9784567890129,eng,500,18000,290,2005-03-30,Chronicle House
+52917,Legends of the Fallen,Laura Black,4.30,5678901234,9785678901236,eng,275,16000,175,2010-09-17,Night Owl Press
+63872,The Lost Empire,Mark White,4.22,6789012345,9786789012344,eng,360,17500,190,2008-12-05,Sunrise Publishers
+74639,River of Dreams,Alice Green,3.85,7890123456,9787890123451,eng,290,14000,165,1995-06-20,Blue Horizon
+82915,City of Shadows,David Gray,4.50,8901234567,9788901234567,eng,410,21000,350,2012-08-03,Urban Tales
+93468,The Final Frontier,Susan King,4.00,9012345678,9789012345678,eng,380,15500,225,2001-04-14,Galaxy Books
+11257,The Silent Guardian,Peter Moore,4.35,0123456789,9780123456789,eng,330,19000,310,2006-02-28,Shield Press
+14582,Journey to Avalon,Karen Black,4.10,1123456789,9781123456786,eng,410,16500,280,2004-10-10,Avalon House
+16789,Echoes of Eternity,Michael Blue,3.95,2123456789,9782123456783,eng,370,13000,195,1998-07-07,Eternal Press
+17834,Chronicles of the Unknown,Olivia Red,4.28,3123456789,9783123456780,eng,400,20500,320,2011-01-15,Unknown Realms
+18923,Shadows of Yesterday,William Gold,3.88,4123456789,9784123456782,eng,340,12500,180,1997-09-09,Past Times Publishing
+23467,Flames of Destiny,Natalie Silver,4.55,5123456789,9785123456789,eng,290,22000,400,2013-05-25,Destiny Books
+25678,Sands of Time,Richard Bronze,4.02,6123456789,9786123456781,eng,360,15800,275,2009-11-11,Timekeepers
+27895,Winds of Change,Patricia Violet,4.40,7123456789,9787123456788,eng,320,18500,290,2007-03-03,Change Press
+29834,Voices in the Dark,George Indigo,3.92,8123456789,9788123456787,eng,410,17000,265,2002-12-12,Midnight House
+31245,Reflections of Reality,Angela Azure,4.25,9123456789,9789123456784,eng,370,19500,330,2005-07-07,Realms Publishing
+34789,The Infinite Journey,Steven Crimson,4.18,1012345678,9781012345679,eng,430,16000,240,2000-08-08,Endless Books

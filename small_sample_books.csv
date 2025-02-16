@@ -1,0 +1,11 @@
+book_id,title,authors,avg_rating,isbn,isbn13,language_code,num_pages,ratings_count,text_reviews_count,publication_date,publisher
+83457,The Great Gatsby,F. Scott Fitzgerald,3.91,0743273567,9780743273565,eng,180,3823456,34567,1925-04-10,Scribner
+23648,To Kill a Mockingbird,Harper Lee,4.27,0061120081,9780061120084,eng,324,4256234,5876,1960-07-11,J.B. Lippincott & Co.
+91234,1984,George Orwell,4.17,0451524934,9780451524935,eng,328,2903452,5432,1949-06-08,Secker & Warburg
+48571,Pride and Prejudice,Jane Austen,4.25,1503290565,9781503290563,eng,279,2054231,23456,1813-01-28,T. Egerton
+65792,The Catcher in the Rye,J.D. Salinger,3.80,0316769487,9780316769488,eng,214,3083456,10234,1951-07-16,Little Brown and Company
+12345,Moby-Dick,Herman Melville,3.49,0142437247,9780142437247,eng,720,1543210,5432,1851-10-18,Harper & Brothers
+57689,War and Peace,Leo Tolstoy,4.11,0199232768,9780199232765,eng,1392,1234567,6789,1869-01-01,The Russian Messenger
+34567,The Hobbit,J.R.R. Tolkien,4.27,054792822X,9780547928227,eng,310,4567890,7890,1937-09-21,George Allen & Unwin
+78902,The Odyssey,Homer,3.75,0140268863,9780140268867,eng,541,2345678,3456,800 BC,Penguin Classics
+45678,Crime and Punishment,Fyodor Dostoevsky,4.20,0486415872,9780486415871,eng,430,1987654,8765,1866-01-01,The Russian Messenger
