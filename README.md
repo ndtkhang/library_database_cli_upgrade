@@ -28,9 +28,9 @@ Convert lists of books into pandas DataFrames for easy manipulation and CSV expo
 2. Navigate into the project folder: cd Python-Library-Database-CLI-Application
 3. Create and activate a virtual environment (optional but recommended): python -m venv venv
 4. 
-* (Windows) venv\Scripts\activate
+    (Windows) venv\Scripts\activate
 
-* (macOS/Linux) source venv/bin/activate
+    (macOS/Linux) source venv/bin/activate
 
 ## Install requirements:
 pip install -r requirements.txt
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ## Usage
 1. Run the main script: python main.py
 2. Follow CLI prompts to:
-* Import books manually
-* Import from CSV
-* Export to CSV
-* Export to SQLite database
+    * Import books manually
+    * Import from CSV
+    * Export to CSV
+    * Export to SQLite database
