@@ -1,5 +1,5 @@
 # Python-Library-Database-CLI-Application
-A Command-Line Interface (CLI) project built in Python to manage library books. This project was created to complete the final program for the MVC3 Python Development project competition. While developing, I practiced and deepened my skills with pandas, object-oriented programming (OOP), working with CSV files, and using SQLAlchemy for database interactions.
+A Command-Line Interface (CLI) project built in Python to manage library books. This project was created to solve MVC3 Python Development project competition independently from my teammate to further my understanding of the solution. While developing, I practiced and deepened my skills with pandas, object-oriented programming (OOP), working with CSV files, and using SQLAlchemy for database interactions.
 
 # Project Purpose
 This application was built as part of completing the MVC3 Python Development project competition. It demonstrates various Python best practices and skills in:
