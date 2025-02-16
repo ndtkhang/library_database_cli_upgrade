@@ -32,9 +32,6 @@ Convert lists of books into pandas DataFrames for easy manipulation and CSV expo
 
     (macOS/Linux) source venv/bin/activate
 
-## Install requirements:
-pip install -r requirements.txt
-
 ## Usage
 1. Run the main script: python main.py
 2. Follow CLI prompts to:
